@@ -1,0 +1,20 @@
+runtime: python310
+
+entrypoint: uvicorn server:app --host=0.0.0.0 --port=8080
+service: backend
+
+env_variables:
+  PYTHONUNBUFFERED: "1"
+  GOOGLE_CLOUD_PROJECT: your-gcp-project-id
+  FIRESTORE_DATABASE_ID: your-firestore-database-id
+
+# Service account with Firestore access permissions
+# Make sure this service account has the following roles:
+# - Cloud Datastore User
+# - Firebase Admin SDK Administrator Service Agent
+service_account: your-service-account@your-project-id.iam.gserviceaccount.com
+
+automatic_scaling:
+  min_instances: 1
+  max_instances: 10
+  target_cpu_utilization: 0.6

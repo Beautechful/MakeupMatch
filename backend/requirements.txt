@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+requests
+numpy
+scikit-image
+Pillow
+python-dotenv
+colormath
+google-cloud-firestore
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+firebase-admin

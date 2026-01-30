@@ -1,0 +1,61 @@
+{
+  "languages": ["en", "de"],
+  "en": [
+    {
+      "question_type": "scan",
+      "question_text": "Use the scanner to analyse your skin",
+      "scan": "Scan",
+      "next": "Next"
+    },
+    {
+      "question_type": "camera",
+      "question_text": "Position your face into the circle",
+      "capture": "Capture",
+      "redo": "Redo",
+      "analyse": "Analyse",
+      "next": "Next"
+    },
+    {
+      "question_type": "options",
+      "question_name": "skin_type",
+      "question_text": "What is your skin type?",
+      "answer_options": {
+        "oily": "Oily",
+        "dry": "Dry",
+        "combination": "Combination",
+        "sensitive": "Sensitive",
+        "normal": "Normal",
+        "other": "Other"
+      }
+    }
+  ],
+  "de": [
+    {
+      "question_type": "scan",
+      "question_text": "Verwenden Sie den Scanner, um Ihren Hautton zu analysieren",
+      "scan": "Scannen",
+      "next": "Weiter"
+    },
+    {
+      "question_type": "camera",
+      "question_text": "Positionieren Sie Ihr Gesicht im Kreis",
+      "capture": "Foto aufnehmen",
+      "redo": "Zurück",
+      "analyse": "Analysieren",
+      "next": "Weiter"
+    },
+    {
+      "question_type": "options",
+      "question_name": "skin_type",
+      "question_text": "Welchen Hauttyp hast Du?",
+      "answer_options": {
+        "oily": "Ölig",
+        "dry": "Trocken",
+        "combination": "Mischhaut",
+        "sensitive": "Empfindlich",
+        "normal": "Normal",
+        "other": "Andere"
+      }
+    }
+  ]
+}

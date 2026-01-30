@@ -1,0 +1,178 @@
+{
+  "common": {
+    "nextPage": "Weiter",
+    "password": {
+      "label": "Passwort",
+      "placeholder": "Passwort eingeben"
+    }
+  },
+  "startPage": {
+    "welcome_line1": "Finde dein perfektes",
+    "welcome_line2": "MakeUp Match",
+    "startAnalysis": "Analyse Starten"
+  },
+  "languages": {
+    "english": "EN",
+    "german": "DE"
+  },
+  "autoExit": {
+    "title": "Bist du noch da?",
+    "cancelButton": "Ja, auf der Seite bleiben",
+    "confirmButton": "Nein, Prozess beenden"
+  },
+  "sensorAnalysis": {
+    "title": "Sensor-Analyse",
+    "spot": "Scanne Stelle",
+    "spot1": "Stirn Scannen",
+    "spot2": "Wange Scannen",
+    "spot3": "Hals Scannen",
+    "item1": "Stirn",
+    "item2": "Wange",
+    "item3": "Hals",
+    "scanButton": "Scannen",
+    "instruction1": "Drücke den Sensor an deine Haut und halte ihn dort",
+    "instruction2": "Währenddessen, klicke auf \"Scannen\"",
+    "instruction3": "Nicht bewegen, bis du das Häkchen siehst",
+    "keepHolding": "Halte",
+    "rescanPopup": {
+      "title": "Erneutes Scannen erforderlich",
+      "text": "Bitte, drücke den Sensor erneut an deine Haut und klicke auf \"Scannen\", um genaue Ergebnisse zu gewährleisten.",
+      "confirm": "Ok"
+    }
+  },
+  "results": {
+    "title": "Deine Top Matches",
+    "bestMatch": "Top 1",
+    "feedback": "Gib uns Dein Feedback!",
+    "tabTeint": "Grundierung",
+    "tabCompleteLook": "Dein Make-up Look",
+    "filters": {
+      "clear": "Alle Filter löschen",
+      "title": "Filter",
+      "coverage": "Deckkraft",
+      "coverageOptions": {
+        "full": "Volldeckend",
+        "medium": "Mittel",
+        "light": "Leicht"
+      },
+      "brand": "Marke",
+      "category": "Produkt",
+      "categoryOptions": {
+        "bb-cream-cc-cream": "BB-Cream und CC-Cream",
+        "concealer": "Concealer",
+        "foundation": "Foundation",
+        "highlighter": "Highlighter",
+        "powder": "Powder"
+      },
+      "other": "Weitere",
+      "otherOptions": {
+        "vegan": "Vegan",
+        "alcohol-free": "Alkoholfrei",
+        "natural": "Naturkosmetik",
+        "available": "Verfügbar"
+      }
+    },
+    "qrCodeInstructions": "Scanne den QR-Code & erhalte die Ergebnisse auf dein Handy",
+    "exitButton": "Analyse beenden",
+    "showCompleteLookButton": "Zeig Mein Make-up Look",
+    "confirmExitModal": {
+      "title": "Seite verlassen?",
+      "cancelButton": "Nein, auf der Seite bleiben",
+      "confirmButton": "Ja, Ergebnisse gehen verloren"
+    }
+  },
+  "cameraAnalysis": {
+    "resultsTitle": "Gesichtsanalyse - Ergebnisse",
+    "resultsSubtitle": "Ihr Foto wurde erfolgreich mit erkannten Gesichtsmarkierungen aufgenommen.",
+    "capturedPhotoAlt": "Aufgenommenes Gesicht mit Markierungen",
+    "analysisComplete": "✓ Gesichtsanalyse erfolgreich abgeschlossen",
+    "continueButton": "Weiter zum nächsten Schritt"
+  },
+  "grabTheSensor": {
+    "title": "Hautfarbenanalyse",
+    "text": "Jetzt geht der Spaß los!",
+    "subtitle": "Greife zum Sensor",
+    "explanation": "Der Hautsensor befindet sich auf der linken Seite dieses Bildschirms. Du wirst ihn für den nächsten Schritt brauchen :)",
+    "buttonText": "Weiter"
+  },
+  "leaveTheSensor": {
+    "title": "Hautfarbenanalyse",
+    "text": "Bitte hänge den Sensor zurück in die Halterung",
+    "subtitle": "Sensor zurückhängen",
+    "explanation": "Du brauchst den Sensor nicht mehr. Du kannst ihn jetzt in die Halterung zurückhängen :)",
+    "buttonText": "Weiter"
+  },
+  "scanningWarnings": {
+    "title": "Hautfarbenanalyse",
+    "text": "Für genaue Ergebnisse vermeide das Scannen von:",
+    "makeup": "Stellen mit starkem Contouring-Make-up",
+    "blush": "Stellen mit Rouge",
+    "birthmarks": "Muttermalen",
+    "buttonText": "Weiter"
+  },
+  "faceDetection": {
+    "title": "Gesichtsanalyse",
+    "initializing": "Gesichtserkennung wird initialisiert...",
+    "startingCamera": "Kamera wird gestartet...",
+    "error": "Fehler bei der Gesichtserkennung aufgetreten",
+    "notInitialized": "Gesichtserkennung nicht initialisiert",
+    "takingPhotoIn": "Foto wird in {{seconds}} aufgenommen...",
+    "takingPhotoNow": "Foto wird jetzt aufgenommen!",
+    "lookingAtCameraAuto": "Schauen Sie in die Kamera - Halten Sie den Blick für den Countdown!",
+    "lookingAtCameraManual": "Schauen Sie in die Kamera - Automatische Aufnahme deaktiviert",
+    "lookDirectly": "Bitte schauen Sie direkt in die Kamera",
+    "positionFace": "Positionieren Sie Ihr Gesicht in der Kamera",
+    "keepLooking": "Weiter in die Kamera schauen",
+    "disableAutoCapture": "Automatische Aufnahme deaktivieren",
+    "enableAutoCapture": "Automatische Aufnahme aktivieren",
+    "cancelCountdown": "Countdown abbrechen",
+    "manualCapture": "Manuelle Aufnahme",
+    "stopCamera": "Kamera stoppen",
+    "instructions": "Schaue in die Kamera. Das System erkennt automatisch, wenn Du hinschaust und macht nach 3 Sekunden ein Foto."
+  },
+  "question": {
+    "title": "Frage"
+  },
+  "voting": {
+    "title": "Welcher Look gefällt dir besser?",
+    "instruction": "Diese von KI erzeugten Beispielbilder helfen uns, <bold>Make-up-Trends</bold> besser zu verstehen. Sie zeigen keine echten Personen und basieren niemals auf deinem Foto. Wähle den Look aus, der dir am besten gefällt!",
+    "instruction1": "Diese von <bold>KI</bold> erzeugten Beispielbilder helfen uns, <bold>Make-up-Trends</bold> besser zu verstehen.",
+    "instruction2": "Sie zeigen keine echten Personen und basieren niemals auf deinem Foto.",
+    "instruction3": "Wähle den Look aus, der dir am besten gefällt!",
+    "welcome": {
+      "title": "Willkommen beim Voting!",
+      "text": "Hilf uns, weiterzuentwickeln, indem du über KI-generierte Bilder abstimmst. Das Voting ist schnell und macht Spaß!",
+      "startButton": "Starten",
+      "privacyNotice": "Deine anonymen Stimmen helfen unser KI-Algorithmus, Make-up-Präferenzen besser zu verstehen. Es werden keine persönlichen Daten erfasst."
+    },
+    "exit": {
+      "title": " Vielen Dank für deine Stimme!",
+      "text": "Dein Feedback hilft uns, unsere Make-up-Vorschläge zu verbessern. Wir schätzen deine Zeit und deinen Beitrag!",
+      "question": "Möchtest du weiter abstimmen oder beenden?",
+      "continueButton": "Weiter",
+      "exitButton": "Beenden"
+    }
+  },
+  "feedback": {
+    "title": "Hilf uns, besser zu werden!",
+    "text": "Wie würdest du deine Erfahrung bewerten?",
+    "improvement": {
+      "title": "Sag uns, was verbessert werden könnte",
+      "options": {
+        "colorMatch": "Farbmatch",
+        "suggestions": "Produktvorschläge",
+        "speed": "Geschwindigkeit",
+        "scanning": "Sensor",
+        "hygenic": "Hygiene"
+      }
+    },
+    "others": "Andere",
+    "othersPlaceholder": "Weitere Vorschläge...",
+    "submit": "Absenden"
+  },
+  "bundle": {
+    "bestMatch": "",
+    "title": "Das könnte Dir auch gefallen",
+    "text": "Entdecke weitere passende Produkte."
+  }
+}

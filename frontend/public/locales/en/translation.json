@@ -1,0 +1,178 @@
+{
+  "common": {
+    "nextPage": "Next",
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your Password"
+    }
+  },
+  "startPage": {
+    "welcome_line1": "Find your perfect",
+    "welcome_line2": "Make-up Match",
+    "startAnalysis": "Start Analysis"
+  },
+  "languages": {
+    "english": "EN",
+    "german": "DE"
+  },
+  "autoExit": {
+    "title": "Are you still there?",
+    "cancelButton": "Yes, stay on the page",
+    "confirmButton": "No, exit the process"
+  },
+  "sensorAnalysis": {
+    "title": "Sensor Analysis",
+    "spot": "Scan spot",
+    "spot1": "Scan forehead",
+    "spot2": "Scan cheek",
+    "spot3": "Scan neck",
+    "item1": "Forehead",
+    "item2": "Cheek",
+    "item3": "Neck",
+    "scanButton": "Scan",
+    "instruction1": "Press the sensor to your skin",
+    "instruction2": "While holding the sensor to your skin, click \"Scan\"",
+    "instruction3": "Hold it there until you see the checkmark",
+    "keepHolding": "Keep holding",
+    "rescanPopup": {
+      "title": "Rescan Required",
+      "text": "Please, press the sensor to your skin again and click 'Scan' to ensure accurate results.",
+      "confirm": "Ok"
+    }
+  },
+  "results": {
+    "title": "Your Top Matches",
+    "bestMatch": "Best match",
+    "feedback": "Help us improve",
+    "tabTeint": "Base Teint",
+    "tabCompleteLook": "Complete Look",
+    "filters": {
+      "title": "Filters",
+      "clear": "Clear All Filters",
+      "coverage": "Coverage",
+      "coverageOptions": {
+        "full": "Full",
+        "medium": "Medium",
+        "light": "Light"
+      },
+      "brand": "Brand",
+      "category": "Product",
+      "categoryOptions": {
+        "bb-cream-cc-cream": "BB-Cream and CC-Cream",
+        "concealer": "Concealer",
+        "foundation": "Foundation",
+        "highlighter": "Highlighter",
+        "powder": "Powder"
+      },
+      "other": "Others",
+      "otherOptions": {
+        "vegan": "Vegan",
+        "alcohol-free": "Alcohol Free",
+        "natural": "Natural",
+        "available": "Available"
+      },
+      "closeButton": "Close"
+    },
+    "qrCodeInstructions": "Scan the QR code & get results on your phone",
+    "exitButton": "Exit the analysis",
+    "showCompleteLookButton": "Show Complete Look",
+    "confirmExitModal": {
+      "title": "You're leaving... Are you sure?",
+      "cancelButton": "No, stay on the page",
+      "confirmButton": "Yes, exit the process"
+    }
+  },
+  "cameraAnalysis": {
+    "resultsTitle": "Face Analysis - Results",
+    "resultsSubtitle": "Your photo has been captured successfully with facial landmarks detected.",
+    "capturedPhotoAlt": "Captured face with landmarks",
+    "analysisComplete": "✓ Face analysis completed successfully",
+    "continueButton": "Continue to Next Step"
+  },
+  "grabTheSensor": {
+    "title": "Skin color analysis",
+    "text": "Now the fun starts!",
+    "subtitle": "Grab the sensor",
+    "explanation": "The skin scanning sensor is located on the left side of this screen. You’ll need it for the next step :)",
+    "buttonText": "Next"
+  },
+  "leaveTheSensor": {
+    "title": "Skin color analysis",
+    "text": "Now put the sensor back to the holder",
+    "subtitle": "Return the sensor",
+    "explanation": "You don't need the sensor any more. You can leave it back to the holder :)",
+    "buttonText": "Next"
+  },
+  "scanningWarnings": {
+    "title": "Skin color analysis",
+    "text": "To get accurate results, avoid scanning:",
+    "makeup": "Spots with heavy contour makeup",
+    "blush": "Spots with blush",
+    "birthmarks": "Birthmarks",
+    "buttonText": "Next"
+  },
+  "faceDetection": {
+    "title": "Face Detection",
+    "initializing": "Initializing face detection...",
+    "startingCamera": "Starting camera...",
+    "error": "Face detection error occurred",
+    "notInitialized": "Face detection not initialized",
+    "takingPhotoIn": "Taking photo in {{seconds}}...",
+    "takingPhotoNow": "Taking photo now!",
+    "lookingAtCameraAuto": "Looking at camera - Keep looking to start countdown!",
+    "lookingAtCameraManual": "Looking at camera - Auto capture disabled",
+    "lookDirectly": "Please look directly at the camera",
+    "positionFace": "Position your face in the camera",
+    "keepLooking": "Keep looking at camera",
+    "disableAutoCapture": "Disable Auto Capture",
+    "enableAutoCapture": "Enable Auto Capture",
+    "cancelCountdown": "Cancel Countdown",
+    "manualCapture": "Manual Capture",
+    "stopCamera": "Stop Camera",
+    "instructions": "Look directly at the camera. The system will automatically detect when you're looking and take a photo after a 3-second countdown."
+  },
+  "question": {
+    "title": "Question"
+  },
+  "voting": {
+    "title": "Which Look Do You Prefer?",
+    "instruction1": "These <bold>AI-generated</bold> example models help us track <bold>makeup trends</bold>.",
+    "instruction2": "They are not real people, and they are never based on your photo.",
+    "instruction3": "Pick the look you like best!",
+    "welcome": {
+      "title": "Welcome to the Voting!",
+      "text": " Help us improve by voting on AI generated images. Voting is quick and fun!",
+      "startButton": "Start",
+      "privacyNotice": "Your anonymous votes help train our AI to better understand makeup preferences. No personal data is collected."
+    },
+    "exit": {
+      "title": " Thank You for Voting!",
+      "text": "Your feedback helps us improve our makeup suggestions. We appreciate your time and contribution!",
+      "question": "Would you like to continue voting or exit?",
+      "continueButton": "Continue",
+      "exitButton": "Exit"
+    }
+  },
+  "feedback": {
+    "title": "Help us improve!",
+    "text": "How would you rate your experience?",
+    "improvement": {
+      "title": "Tell us what could be improved",
+      "options": {
+        "colorMatch": "Color Match",
+        "suggestions": "Suggestions",
+        "speed": "Speed",
+        "scanning": "Scanning",
+        "hygenic": "Hygenic"
+      }
+    },
+    "others": "Others",
+    "othersPlaceholder": "Other Suggestions...",
+    "submit": "Submit"
+  },
+  "bundle": {
+    "bestMatch": "",
+    "title": "Your personalised perfect Look!",
+    "text": "Explore the products that could go well with it."
+  }
+}

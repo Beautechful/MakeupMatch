@@ -1,0 +1,10 @@
+{
+  "title": "Beautechful",
+  "subtitle": "Einwilligungserklärung für Makeup Match",
+  "date": "In der Fassung vom 10. Juli 2025",
+  "consent": "Ich bestätige, dass ich mindestens 16 Jahre alt bin und willige ein, dass Beautechful meine Daten wie beschrieben verwendet.",
+  "buttons": {
+    "accept": "Ich willige ein",
+    "decline": "Ich willige nicht ein"
+  }
+}
